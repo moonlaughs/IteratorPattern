@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.exe
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.deps.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\bin\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.AssemblyInfo.cs
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\IteratorPattern\IteratorPattern\obj\Debug\netcoreapp3.1\IteratorPattern.genruntimeconfig.cache
